@@ -1,0 +1,27 @@
+.textEingabe {
+  margin-left: 10px;
+  width: 450px;
+  height: 150px;
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 10px 10px;
+  vertical-align: top;
+  line-height: 1.2;
+  box-sizing: border-box;
+  resize: none;
+}
+
+h1 {
+  margin-left: 20px;
+}
+
+.counter {
+  display: flex;
+  position:relative;
+  margin-top: -35px;
+  margin-left: 390px;
+  font-size: 0.9em;
+  color:black;
+  pointer-events: none;
+}
+}
